@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
- client.login('ODQ0NjE0MzQwNjk0OTAwNzk3.YKU-Zg.i0SXh-87JffW20M9cjnfpeM7MnE');
+ client.login('Bot_Token');
 let clientDiscord = client;
 let prefix = '-g'
 console.log(clientDiscord)
